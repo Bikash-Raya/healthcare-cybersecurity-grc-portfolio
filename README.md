@@ -31,7 +31,7 @@
 | File | Description |
 | --- | --- |
 | [BCHC-IR-PB-001_Phishing_Incident_Response_Playbook.pdf](./BCHC-IR-PB-001_Phishing_Incident_Response_Playbook.pdf) | Phishing Incident Response Playbook — aligned to NIST CSF and HIPAA |
-| [BCHC-IS-POL-002_Password_Authentication_Policy.docx](./BCHC-IS-POL-002_Password_Authentication_Policy.docx) | Password & Authentication Policy — aligned to NIST SP 800-63B and HIPAA |
+| [BCHC-IS-POL-002_Password_Authentication_Policy.pdf](./BCHC-IS-POL-002_Password_Authentication_Policy.pdf) | Password & Authentication Policy — aligned to NIST SP 800-63B and HIPAA |
 | README.md | Project overview |
 
 ---
